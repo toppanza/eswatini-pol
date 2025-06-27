@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "ff62512fa16de350a29c89f334f7ac56",
-"assets/AssetManifest.bin.json": "51691cdb2e67a3f2f78876866d221106",
-"assets/AssetManifest.json": "e2e79aed6238b549e294bdc5a20454a4",
+const RESOURCES = {"assets/AssetManifest.bin": "005d6f62cfb8ecd98555e63cbab9eb24",
+"assets/AssetManifest.bin.json": "2b39658652db123c720932a25451a867",
+"assets/AssetManifest.json": "9d04bdaf1d12400da2acbab05618cb75",
 "assets/assets/images/logo.png": "8b42958401aaf64dd439bfd164a8e629",
 "assets/assets/images/logo_small.png": "9cbcf302189d2c44edcf3594121f3443",
 "assets/assets/json/utopia_districts_central.json": "57b3880321701c86a70e85f98cbe6c82",
@@ -22,6 +22,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "ff62512fa16de350a29c89f334f7ac56
 "assets/assets/json/utopia_wards_southern_district_one.json": "7a51dba1469846bb1159e195e39c8470",
 "assets/assets/json/utopia_wards_southern_district_three.json": "1a7b99d7120e697b4170520bd81a3cec",
 "assets/assets/json/utopia_wards_southern_district_two.json": "82462e699d506dd5ae73493e125f9d5a",
+"assets/assets/lottie/sz_loading.json": "420e44b9a8a0724de4b1502c34162303",
 "assets/assets/models/mobilefacenet.tflite": "7945c78f4484c99560df461df85baa2f",
 "assets/assets/rive/error.riv": "e74e21f8b53de4b541dd037c667027c1",
 "assets/assets/rive/folder.riv": "11c38692fdfbe2d5b483d84e5e7117b6",
@@ -36,8 +37,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "ff62512fa16de350a29c89f334f7ac56
 "assets/assets/rive/warning.riv": "0becf971559a68f9a74c8f0c6e0f8335",
 "assets/assets/shaders/particle_effect.glsl": "6012a27b38576ca54066bab4d668c808",
 "assets/FontManifest.json": "f052490e6b5669bca76f16ae8489e008",
-"assets/fonts/MaterialIcons-Regular.otf": "18aaf2187b28d9d94ac814676f7e9992",
-"assets/NOTICES": "fc4c78b15309442346e21045f42cb12d",
+"assets/fonts/MaterialIcons-Regular.otf": "3f1fb71351830a1d836c3656e9bcf6b8",
+"assets/NOTICES": "40b6aa3ab358ea498deb0085b1dd329a",
 "assets/packages/flutter_map/lib/assets/flutter_map_logo.png": "208d63cc917af9713fc9572bd5c09362",
 "assets/packages/flutter_plus_plus/assets/fonts/Lato-Bold.ttf": "eb9532033c2adf99b1314611b5e9cd0e",
 "assets/packages/flutter_plus_plus/assets/fonts/Lato-Italic.ttf": "e0867c8fb91d45453b9d3a578b66dca8",
@@ -526,16 +527,16 @@ const RESOURCES = {"assets/AssetManifest.bin": "ff62512fa16de350a29c89f334f7ac56
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "7be2c1c27027b02f78ef74047dcb160e",
+"flutter_bootstrap.js": "0093d9c495e6c41c64aca0798b0d3e34",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "602e0df9c5fbc8cbd244de43ff5400ab",
 "/": "602e0df9c5fbc8cbd244de43ff5400ab",
-"main.dart.js": "736b249a361e22d4a7370f83ec714ef2",
+"main.dart.js": "e7bb9ede5f7bc757faf82b3a548654b7",
 "manifest.json": "ccaa00c131ba53ef4ec171ecf790c035",
-"version.json": "4c59f884049ef2d68b9f1d73817c57b8",
+"version.json": "d55b7e5477153c862432bcb1dd650bbe",
 "web.config": "ac30ffa2e8f09919f46a81a5272b5fec"};
 // The application shell files that are downloaded before a service worker can
 // start.
